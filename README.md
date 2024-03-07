@@ -8,7 +8,7 @@
 - Playstore Link: https://play.google.com/store/apps/details?id=com.columbia.buyble
 
 ## Code Snippet
-- Lib folder of buyble nyc: https://gitfront.io/r/Jae-Kwon/sjRMe8stkRs7/buyble-lib/
+- Lib folder of buyble nyc (private repo): https://gitfront.io/r/Jae-Kwon/sjRMe8stkRs7/buyble-lib/
 
 ## Promo Video (🔊sound on!)
 
